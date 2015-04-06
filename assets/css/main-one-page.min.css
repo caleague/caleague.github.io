@@ -5178,5 +5178,13 @@ ul.nav-categories>li>a:hover {
     background-color: rgba(0, 0, 0, 0.3)
 }
 .multiple-pricing-table {
-    margin-top: 90px
+    margin-top: 90px;
 }
+
+.x-org-intro {
+    font-size: 140%;
+}
+
+.x-org-intro p {
+    margin-bottom: 20px;
+]
