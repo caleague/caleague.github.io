@@ -5187,4 +5187,9 @@ ul.nav-categories>li>a:hover {
 
 .x-org-intro p {
     margin-bottom: 20px;
-]
+}
+
+.portfolio-item {
+    float: left;
+}
+
