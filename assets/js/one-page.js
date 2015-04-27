@@ -38,4 +38,8 @@ jQuery(function($) {
         prevArrow: '<button type="button" data-role="none" class="carousel-control left slick-prev">Previous</button>',
         nextArrow: '<button type="button" data-role="none" class="carousel-control right slick-next">Next</button>'
     });
+
+    $("img.lazy").lazyload({
+        effect : "fadeIn"
+    });
 });
